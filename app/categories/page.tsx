@@ -3,8 +3,6 @@ import { getAllCategories } from '@/lib/catalog';
 import { CategoryCard } from '@/components/CategoryCard';
 import type { Metadata } from 'next';
 
-export const revalidate = 60;
-
 export const metadata: Metadata = {
   title: 'Categories',
   description: 'Browse A2A agents by category.',

@@ -6,8 +6,6 @@ import { JsonLd } from '@/components/JsonLd';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 
-export const revalidate = 60;
-
 const BASE_URL = process.env.NEXT_PUBLIC_APP_URL || 'https://agentswitchboard.dev';
 
 export async function generateStaticParams() {
