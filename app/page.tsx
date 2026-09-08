@@ -13,8 +13,6 @@ import { CategoryCard } from '@/components/CategoryCard';
 import { JsonLd } from '@/components/JsonLd';
 import type { Metadata } from 'next';
 
-export const revalidate = 60;
-
 const BASE_URL = process.env.NEXT_PUBLIC_APP_URL || 'https://agentswitchboard.dev';
 
 export const metadata: Metadata = {

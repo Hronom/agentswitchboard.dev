@@ -1,8 +1,6 @@
 import { getAgentCount, getUniqueProviderCount, getAllCategories } from '@/lib/catalog';
 import { BASE_URL } from '@/lib/env';
 
-export const revalidate = 300;
-
 /**
  * Markdown twin of the homepage.
  *

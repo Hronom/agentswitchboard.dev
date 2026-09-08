@@ -7,8 +7,6 @@ import { SearchBar } from '@/components/SearchBar';
 import { AccessMethodFilter } from '@/components/AccessMethodFilter';
 import type { Metadata } from 'next';
 
-export const revalidate = 60;
-
 export async function generateMetadata({
   searchParams,
 }: {

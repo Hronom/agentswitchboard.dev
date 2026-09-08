@@ -2,8 +2,6 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 import { getAgentCount, getUniqueProviderCount } from '@/lib/catalog';
 
-export const revalidate = 60;
-
 export const metadata: Metadata = {
   title: 'About',
   description:

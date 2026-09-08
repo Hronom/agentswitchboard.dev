@@ -2,8 +2,6 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 import { getEveryAgent } from '@/lib/catalog';
 
-export const revalidate = 300;
-
 export const metadata: Metadata = {
   title: 'For AI Agents — Agent Switchboard',
   description:
