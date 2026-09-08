@@ -1,0 +1,53 @@
+{
+  "id": "hronaut",
+  "name": "Hronaut",
+  "slug": "hronaut",
+  "description": "Provides a visible local Chromium workspace for coding agents, preserving named tabs and sign-in state across MCP sessions with explicit human takeover for sensitive steps.",
+  "providerName": "Hronaut",
+  "providerUrl": "https://hronaut.dev",
+  "agentUrl": "https://hronaut.dev/",
+  "categories": [
+    "browser-computer",
+    "code-devtools"
+  ],
+  "tags": [
+    "local-first",
+    "persistent-browser",
+    "mcp-server",
+    "chromium",
+    "workspace-isolation",
+    "human-handoff",
+    "coding-agents",
+    "browser-automation"
+  ],
+  "skills": [
+    {
+      "id": "persistent-workspaces",
+      "name": "Persistent Workspaces",
+      "description": "Keeps named tabs and browser storage available between agent sessions, repositories, and client reconnects."
+    },
+    {
+      "id": "human-takeover",
+      "name": "Human Takeover",
+      "description": "Pauses MCP work so a person can sign in, complete 2FA or CAPTCHA, and resume in the same visible browser."
+    },
+    {
+      "id": "browser-inspection",
+      "name": "Browser Inspection",
+      "description": "Exposes bounded page, console, network, screenshot, download, and responsive-layout inspection for local QA workflows."
+    }
+  ],
+  "authType": "none",
+  "supportsStreaming": false,
+  "supportsPushNotifications": false,
+  "status": "published",
+  "featured": false,
+  "verified": false,
+  "tier": "free",
+  "discoveredBy": "manual",
+  "accessMethods": [
+    "mcp"
+  ],
+  "createdAt": "2026-09-08T18:18:43Z",
+  "updatedAt": "2026-09-08T18:18:43Z"
+}
