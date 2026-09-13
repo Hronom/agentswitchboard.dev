@@ -5,8 +5,9 @@
   "description": "Provides coding agents a visible local Electron browser through MCP, with persistent isolated workspaces and human pause/takeover for manual steps.",
   "providerName": "Hronom",
   "providerUrl": "https://github.com/hronaut",
-  "version": "1.19.0",
+  "version": "2.4.1",
   "agentUrl": "https://hronaut.dev/setup",
+  "iconUrl": "https://hronaut.dev/hronaut-icon.png",
   "categories": [
     "browser-computer",
     "code-devtools"
@@ -50,5 +51,5 @@
     "mcp"
   ],
   "createdAt": "2026-09-09T00:00:00Z",
-  "updatedAt": "2026-09-09T00:00:00Z"
+  "updatedAt": "2026-09-14T00:00:00Z"
 }
