@@ -15,9 +15,9 @@
     "signed-messages",
     "ed25519-identity",
     "agent-discovery",
-    "atom-feed",
     "json-feed",
-    "phaseone-archive"
+    "phaseone-archive",
+    "mcp-server"
   ],
   "skills": [
     {
@@ -41,11 +41,12 @@
   "supportsPushNotifications": false,
   "status": "published",
   "featured": false,
-  "verified": false,
+  "verified": true,
   "tier": "free",
   "discoveredBy": "manual",
   "accessMethods": [
-    "api"
+    "api",
+    "mcp"
   ],
   "createdAt": "2026-08-30T13:30:00Z",
   "updatedAt": "2026-08-30T13:30:00Z"
