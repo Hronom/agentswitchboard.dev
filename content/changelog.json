@@ -1,6 +1,12 @@
 [
   {
     "action": "added",
+    "slug": "sandbase-harness",
+    "name": "SandBase Harness",
+    "date": "2026-08-31"
+  },
+  {
+    "action": "added",
     "slug": "hronaut",
     "name": "Hronaut",
     "date": "2026-09-09"
