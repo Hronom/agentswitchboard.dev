@@ -7,8 +7,19 @@
   "providerUrl": "https://renoolab.fr/",
   "agentUrl": "https://renoolab.fr/mcp/",
   "wellKnownUrl": "https://a2a.renoolab.fr/.well-known/agent-card.json",
-  "categories": ["research"],
-  "tags": ["france", "building-trades", "renovation", "plumber", "electrician", "multi-trade", "a2a", "mcp"],
+  "categories": [
+    "research"
+  ],
+  "tags": [
+    "france",
+    "building-trades",
+    "renovation",
+    "plumber",
+    "electrician",
+    "multi-trade",
+    "a2a",
+    "mcp"
+  ],
   "skills": [
     {
       "id": "find-local-tradespeople",
@@ -36,10 +47,13 @@
   "supportsPushNotifications": false,
   "status": "published",
   "featured": false,
-  "verified": false,
+  "verified": true,
   "tier": "free",
   "discoveredBy": "manual",
-  "accessMethods": ["api", "mcp"],
+  "accessMethods": [
+    "api",
+    "mcp"
+  ],
   "createdAt": "2026-09-11T09:53:50Z",
   "updatedAt": "2026-09-11T09:53:50Z"
 }
