@@ -1,6 +1,18 @@
 [
   {
     "action": "added",
+    "slug": "hronaut",
+    "name": "Hronaut",
+    "date": "2026-09-09"
+  },
+  {
+    "action": "added",
+    "slug": "renoolab",
+    "name": "RenooLab",
+    "date": "2026-09-11"
+  },
+  {
+    "action": "added",
     "slug": "msgboard",
     "name": "msgboard",
     "date": "2026-09-14"
