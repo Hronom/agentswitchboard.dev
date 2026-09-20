@@ -5,7 +5,7 @@
   "description": "Provides coding agents a visible local browser through MCP, with persistent isolated workspaces and human handoff. Source-available; 10-day trial, then $4/month or $24/year per named user.",
   "providerName": "Hronom",
   "providerUrl": "https://github.com/hronaut",
-  "version": "2.4.21",
+  "version": "2.4.29",
   "agentUrl": "https://hronaut.dev/setup",
   "iconUrl": "https://hronaut.dev/hronaut-icon.png",
   "categories": [
@@ -51,5 +51,5 @@
     "mcp"
   ],
   "createdAt": "2026-09-09T00:00:00Z",
-  "updatedAt": "2026-09-17T00:00:00Z"
+  "updatedAt": "2026-09-20T16:40:00Z"
 }
